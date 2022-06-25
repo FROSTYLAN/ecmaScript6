@@ -12,3 +12,5 @@ function newFunction2(name = "oscar", age = 32, country = "PE") {
 
 newFunction2(); // Pasa los parámetros por defecto.
 newFunction2("Ricardo", "23", "C0");
+
+// https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Functions/Default_parameters
